@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/painel.unity
+    guid: 045ef2763c7084734956ee355bf2a1a0
+  - enabled: 1
     path: Assets/Scenes/jogo1.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/jogo2.unity
+    guid: 6dc2e318807e448bc8e752f567fca677
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
